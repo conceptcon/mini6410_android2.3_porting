@@ -7,7 +7,8 @@ kernel version 2.36
 android version 2.3.4
 
 Base on FriendlyArm code.
-what work:
+
+What work:
 
 Touchscreen
 Camera.both usb and cmos camera
